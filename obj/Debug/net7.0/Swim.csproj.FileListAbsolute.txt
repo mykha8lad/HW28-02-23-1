@@ -1,0 +1,15 @@
+D:\c#-projects\Swim\Swim\bin\Debug\net7.0\Swim.exe
+D:\c#-projects\Swim\Swim\bin\Debug\net7.0\Swim.deps.json
+D:\c#-projects\Swim\Swim\bin\Debug\net7.0\Swim.runtimeconfig.json
+D:\c#-projects\Swim\Swim\bin\Debug\net7.0\Swim.dll
+D:\c#-projects\Swim\Swim\bin\Debug\net7.0\Swim.pdb
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.csproj.AssemblyReference.cache
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.AssemblyInfoInputs.cache
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.AssemblyInfo.cs
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.csproj.CoreCompileInputs.cache
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.dll
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\refint\Swim.dll
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.pdb
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\Swim.genruntimeconfig.cache
+D:\c#-projects\Swim\Swim\obj\Debug\net7.0\ref\Swim.dll
