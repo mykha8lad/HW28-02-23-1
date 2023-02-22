@@ -4,7 +4,46 @@
     {
         static void Main(string[] args)
         {
+            // работа выполненная на паре
+            #region 1. Написать программу, которая находит среднее арифметическое значение из двух чисел.
+            /*Console.Write("Введите первое число: ");
+            int u = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            int y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"Среднее арифметическое: {(u + y) / 2}");*/
+            #endregion
 
+            #region 2. Написать программу, которая находит корень линейного уравнения ax + b = 0.
+            /*Console.Write("Введите коэффициент a: ");
+            double a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите коэффициент b: ");
+            double b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"x = {b / a}");*/
+            #endregion
+
+            #region 3. Пользователь вводит число. Программа вычисляет 3-ю степень этого числа.
+            /*Console.Write("Введите число для возведения в куб: ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"{num}**3 = {num * num * num}");*/
+            #endregion
+
+            #region 4. Написать программу, которая  предлагает пользователю ввести радиус окружности  и считает площадь этой окружности. Число Pi задать в программе как константу.
+            /*const double Pi = 3.14;
+            Console.Write("Введите радиус: ");
+            double r = Convert.ToDouble(Console.ReadLine());
+            double P = Pi * (r * r);
+            Console.WriteLine($"Площадь окружноcти с радиусов {r} равна {P}");*/
+            #endregion
+
+            #region 5. Написать программу, которая  переводит доллары в гривны. Курс доллара задать в программе как константу.
+            /*const double dollarRate = 39.1;
+            Console.Write("Введите сумму в долларах: ");
+            double dollars = Convert.ToDouble(Console.ReadLine());
+            double hryvnias = dollars * dollarRate;
+            Console.WriteLine("{0} долларов = {1} гривен", dollars, hryvnias);*/
+            #endregion
+
+            // работа выполненная дома
             #region 6. Написать программу, которая переводит сухопутные мили в километры. Одна миля – 1.609 км.
             /*const double oneMiles = 1.609;
             double kilometers;
